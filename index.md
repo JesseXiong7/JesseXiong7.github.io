@@ -5,16 +5,16 @@
 ---
 
 ## 👋 About Me
-Hi! I'm Jesse Xiong, an IT–Data Analytics student at Chippewa Valley Technical College.  
-I’m passionate about transforming raw data into meaningful insights using Power BI, Python, and SQL Server.  
+Hi! I'm Jesse Xiong, an IT Data Analytics student at Chippewa Valley Technical College.
+I’m passionate about transforming raw data into meaningful insights using Power BI, Python, and SQL Server.
 My goal is to build a career in data analytics, focusing on dashboard design, database management, and machine learning.
 
 I’ve always been drawn to technology and the power of data, which inspired me to pursue a career where I can help organizations make smarter, data-driven decisions. I enjoy uncovering patterns, designing interactive dashboards, and presenting complex information in a way that’s clear, visual, and actionable. My focus is on continuous learning, improving my technical skills, and applying them to real-world business challenges.
 
-Outside of data, I’ve always loved gaming — not just for the fun of it, but for how games use data to create player experiences, track performance, and drive engagement. Eventually, I’d love to combine my passion for data and gaming by working in the gaming or entertainment analytics industry, helping studios analyze player behavior, optimize game performance, and enhance user experiences through data insights 
+Outside of data, I’ve always loved gaming, not just for the fun of it, but for how games use data to create player experiences, track performance, and drive engagement. Eventually, I’d love to combine my passion for data and gaming by working in the gaming or entertainment analytics industry, helping studios analyze player behavior, optimize game performance, and enhance user experiences through data insights.
 
-✨ **A Personal Touch**  
-For me, data isn’t just numbers — it’s a story waiting to be told. I love the process of finding insights hidden within large datasets and transforming them into visuals that anyone can understand. I’m constantly exploring new tools, experimenting with creative design styles, and discovering better ways to communicate information. Someday, I’d love to start a blog where I share data tips, dashboard designs, and maybe even a few *data-inspired jokes* along the way.
+✨ A Personal Touch
+For me, data isn’t just numbers; it’s a story waiting to be told. I love the process of finding insights hidden within large datasets and transforming them into visuals that anyone can understand. I’m constantly exploring new tools, experimenting with creative design styles, and discovering better ways to communicate information. Someday, I’d love to start a blog where I share data tips, dashboard designs, and maybe even a few data-inspired jokes along the way. 
 
 😄 **Just for Laughs**
 - Why did the data analyst break up with Excel? Too many sheets in the relationship.  
