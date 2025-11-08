@@ -1,7 +1,7 @@
 #Block 1 – Foundations of IT & Data Analytics  
 ### First Semester
 
-Block 1 represents the start of my journey in the **IT–Data Analytics Specialist** program at CVTC.  
+Block 1 represents the start of my journey in the **IT–Data Analytics** program at CVTC.  
 During my first semester, I completed **Intro to Computers & Programming (10-152-118)** and **Database 1 (10-152-132)**.  
 These two courses gave me a strong technical foundation in computer logic, programming basics, and relational database design—skills that continue to guide every analytics project I build.  
 
@@ -10,7 +10,7 @@ These two courses gave me a strong technical foundation in computer logic, progr
 ## 10-152-118 Intro to Computers & Programming  
 
 ### Overview  
-This course introduced me to information technology, software development, and data analytics. I learned how hardware and software interact, how operating systems work, and how logic and code can solve real problems. It also taught me to use the Command Prompt, GitHub, and basic JavaScript to explore how computers and web programs work together.  
+This course introduced me to the main areas of information technology and programming. I learned how computers work from both a hardware and software perspective, how operating systems manage data, and how programming languages are used to create solutions. I practiced using the Command Prompt to navigate and organize files, wrote my first JavaScript programs, and explored how problem solving, logic, and data connect in the IT field. The course also covered cybersecurity awareness and introduced me to GitHub for storing and sharing projects.    
 
 ### What I Learned  
 **Exploring IT and Problem Solving**  
@@ -37,7 +37,7 @@ I was introduced to GitHub for version control and hosting projects, which I now
 - [Animated Rainbow Visual (jxiong34_turtle.html)](artifacts/intro_computers_programming/jxiong34_turtle.html)  
 
 ### Reflection  
-This course helped me see how technology, logic, and data analytics connect. I gained hands-on experience with operating systems, file management, and coding fundamentals. The skills I learned here prepared me for future work in Python, ETL pipelines, and Power BI.  
+This course gave me a solid understanding of how computers and software work together. I learned how to use both the Command Prompt and programming tools to organize data and create simple programs. It helped me build problem-solving skills and confidence in writing code. I also learned the importance of cybersecurity and version control in IT. Overall, this course gave me the foundation I needed to move forward in programming, databases, and data analytics.    
 
 ---
 
