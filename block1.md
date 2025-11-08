@@ -1,4 +1,4 @@
-#Block 1 – Foundations of IT & Data Analytics  
+#Block 1 – Foundations of IT-Data Analytics
 ### First Semester
 
 Block 1 represents the start of my journey in the **IT–Data Analytics** program at CVTC.  
