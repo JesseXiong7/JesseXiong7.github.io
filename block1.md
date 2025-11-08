@@ -32,9 +32,9 @@ I learned about password management and how to identify phishing and social engi
 I was introduced to GitHub for version control and hosting projects, which I now use for my academic portfolio and future data projects.  
 
 ### Artifacts and Projects  
-- Command Prompt Tree Diagram.PNG  
-- jsActivity.html – Smiley Face in JavaScript  
-- jxiong34_turtle.html – Animated Rainbow Visual  
+- [Command Prompt Tree Diagram](artifacts/intro_computers_programming/Command%20Promt%20Tree%20Diagram.PNG)  
+- [Smiley Face in JavaScript (jsActivity.html)](artifacts/intro_computers_programming/jsActivity.html)  
+- [Animated Rainbow Visual (jxiong34_turtle.html)](artifacts/intro_computers_programming/jxiong34_turtle.html)  
 
 ### Reflection  
 This course helped me see how technology, logic, and data analytics connect. I gained hands-on experience with operating systems, file management, and coding fundamentals. The skills I learned here prepared me for future work in Python, ETL pipelines, and Power BI.  
