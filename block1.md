@@ -3,7 +3,7 @@
 
 Block 1 represents the start of my journey in the **IT–Data Analytics** program at CVTC.  
 During my first semester, I completed **Intro to Computers & Programming (10-152-118)** and **Database 1 (10-152-132)**.  
-These two courses gave me a strong technical foundation in computer logic, programming basics, and relational database design—skills that continue to guide every analytics project I build.  
+These two courses gave me a strong technical foundation in computer logic, programming basics, and relational database design. The skills I learned continue to guide every analytics project I build and helped me understand how data and technology work together to solve real problems.  
 
 ---
 
