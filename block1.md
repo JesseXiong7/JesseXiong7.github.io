@@ -70,7 +70,7 @@ I became comfortable cleaning, organizing, and summarizing data so it can be use
   - Jxiong34_drone_m4.sql.sql  
   - jxiong34_m5.4.sql.sql  
   - Jxiong34_m7.3.sql  
-  - Jxiong34_m8.sql  
+  - [Jxiong34_m8.sql](artifacts/database1/Jxiong34_m8.sql)  
 
 ### Reflection  
 This course taught me how to design efficient databases and write queries that turn raw data into useful insights. I learned how important clean data and good design are for accuracy. Database 1 helped me build the foundation for advanced courses in ETL, Power BI, and data visualization.  
