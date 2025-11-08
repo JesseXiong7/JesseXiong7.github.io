@@ -54,7 +54,7 @@ I studied how database systems store and manage data for organizations. I learne
 I created Entity Relationship Diagrams (ERDs) to map out data relationships and apply normalization rules (1NF to 3NF). I developed ERDs for projects like the **Drone Module 2** and **Rewards Module 2**, defining data types, relationships, and cardinality.  
 
 **Working with SQL and SSMS**  
-I used Microsoft SQL Server Management Studio to restore databases, create tables, and populate them with data. I practiced writing queries that used `SELECT`, `WHERE`, `GROUP BY`, and `ORDER BY`, along with aggregate functions like COUNT and SUM. I also used JOINs and subqueries to combine and filter data from multiple tables and explored `UNION` to merge data sets.  
+I used Microsoft SQL Server Management Studio to restore databases, create tables, and populate them with data. I practiced writing queries that used `SELECT`, `WHERE`, `GROUP BY`, and `ORDER BY`, along with aggregate functions like `COUNT` and `SUM`. I also used JOINs and subqueries to combine and filter data from multiple tables and explored `UNION` to merge data sets.  
 
 **Testing and Troubleshooting**  
 I learned to review query results for accuracy, debug SQL errors, and analyze relationships for data consistency and performance.  
