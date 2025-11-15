@@ -141,11 +141,18 @@ I studied design concepts including user interface guidelines, input and output 
 **Implementation, Testing, and Support**  
 I explored unit, integration, and system testing as well as program, system, operations, and user documentation. I learned about installation steps, maintenance strategies, system security, performance management, disaster recovery, and the lifecycle of long-term system support.
 
-### Artifacts and Projects  
-- SDLC Vacation Assignment  
-- Appliance Warehouse Case Study  
-- Together Farms Case Study  
-- ERP System Evaluation (Acumatica Analysis)
+### Systems Analysis & Design Artifacts
+#### SDLC Vacation Assignment
+- [SDLC Vacation Case Study](block2_artifacts/systems_analysis_design/SAD-Jxiong34_CaseStudy2.docx)
+#### Appliance Warehouse Case Study
+- [Appliance Warehouse – Chapter 12 Key](block2_artifacts/systems_analysis_design/14-Appliance_Warehouse_Case_Chapter12_Key.docx)
+- [Appliance Warehouse – Gantt Chart](block2_artifacts/systems_analysis_design/M4%20-%20Complete%20Appliance%20Warehouse%20Case%20Study-Gantt%20Chart.xlsx)
+- [Appliance Warehouse – Process Diagram](block2_artifacts/systems_analysis_design/M6%20-%20Complete%20Appliance%20Warehouse%20Case%20Study.drawio.png)
+#### Together Farms Case Study
+- [Case Study – Part 6](block2_artifacts/systems_analysis_design/SAD-Jxiong34_CaseStudy6.docx)
+- [Case Study – Part 9](block2_artifacts/systems_analysis_design/SAD-Jxiong34_CaseStudy9.docx)
+#### ERP System Evaluation (Acumatica Analysis)
+- [ERP System – Acumatica Evaluation](block2_artifacts/systems_analysis_design/SAD-Jxiong34_CaseStudy9.docx)
 
 ### Reflection  
 Systems Analysis & Design strengthened my ability to evaluate business needs, gather requirements, and design solutions that support organizational goals. The case studies helped me apply the SDLC in practical situations and understand how structured planning leads to successful system implementation.
