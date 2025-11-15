@@ -146,7 +146,7 @@ I explored unit, integration, and system testing as well as program, system, ope
 - [SDLC Chapter 12 Key.docx](block2_artifacts/systems_analysis_design/14-Appliance_Warehouse_Case_Chapter12_Key.docx)
 
 #### Appliance Warehouse Case Study  
-- [Gantt Chart – Case Study](block2_artifacts/systems_analysis_design/M4_-_Complete_Appliance_Warehouse_Case_Study-Gnatt_Chart.xlsx)  
+- [Appliance Warehouse Case Study – Gantt Chart](block2_artifacts/systems_analysis_design/M4%20-%20Complete%20Appliance%20Warehouse%20Case%20Study-Gantt%20Chart.xlsx)  
 - [Draw.io Diagram – Appliance Warehouse Case Study](block2_artifacts/systems_analysis_design/M6%20-%20Complete%20Appliance%20Warehouse%20Case%20Study.drawio.png) 
 - [Appliance Warehouse Case Study – Part 2](block2_artifacts/systems_analysis_design/SAD-Jxiong34_CaseStudy2.docx)  
 - [Appliance Warehouse Case Study – Part 6](block2_artifacts/systems_analysis_design/SAD-Jxiong34_CaseStudy6.docx)  
