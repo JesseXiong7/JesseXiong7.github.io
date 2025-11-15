@@ -29,11 +29,9 @@ I gained experience writing counted loops using FOR and uncounted loops using WH
 I learned how to build cleaner programs by breaking logic into functions. I worked with arrays and dictionaries to store multiple values and used return statements to pass information back to the main program. These skills helped me write more structured and organized code.
 
 ### Artifacts and Projects  
-- JavaScript debugging exercises  
-- Pseudocode and flowchart assignments  
-- Decision and looping logic projects  
-- **Final Project: BMI Calculator (index.html + script.js)**  
-- Unit lab screenshots (Modules 3–7)
+- Pseudocode and Flowchart Assignments  
+- Decision-Making Logic Projects  
+- BMI Calculator (index.html + script.js)
 
 ### Reflection  
 Programming Fundamentals helped me think like a developer. I learned how to break down a problem, design the logic, and build a program from start to finish. These skills prepared me for more advanced coursework in Python, ETL, Power BI, and data analytics.
@@ -93,9 +91,9 @@ I learned how to create PivotTables, PivotCharts, line graphs, comparison charts
 I practiced validating data accuracy, evaluating actions based on data, and summarizing findings into recommendations. The course showed me how analytics supports operational and strategic decisions.
 
 ### Artifacts and Projects  
-- **Toyota vs. Honda Consumer Interest Analysis**  
-- **PS5 vs. Xbox Consumer Trend Dashboard**  
-- **Business recommendation reports using descriptive, predictive, and prescriptive analytics**
+- Toyota vs. Honda Consumer Interest Analysis  
+- PS5 vs. Xbox Consumer Interest Analysis  
+- Excel Dashboard and KPI Visualizations
 
 ### Reflection  
 Business Analytics helped me see how raw data becomes real business insight. Through hands-on Excel projects, I gained experience analyzing trends, building dashboards, and creating recommendations backed by data. These skills are essential for future work in reporting and visualization tools like Power BI.
