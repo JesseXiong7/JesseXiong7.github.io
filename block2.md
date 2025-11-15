@@ -152,9 +152,9 @@ I created Access reports using SQL Server tables and learned how to format layou
 I connected to SQL Server through data sources, created datasets, and built detailed, exception, and summary reports. I applied conditional formatting, expressions, parameters, tooltips, drill-through features, and interactive controls. I added charts, matrices, images, and logos and practiced exporting reports to Excel and Word.
 
 ### Artifacts and Projects  
-- **Final Report – Employee Salary History (rdl)**  
-- **Module 11 Parameter Lab (rdl)**  
-- **KPI Conditional Formatting (Module 13)**  
+- Final Report – Employee Salary History (rdl) 
+- Module 11 Parameter Lab (rdl)**  
+- KPI Conditional Formatting (Module 13)  
 
 ### Reflection  
 BI Data 1 helped me understand how to transform SQL data into professional business reports. I learned techniques for improving report interactivity, readability, and visual clarity. These reporting skills are essential for business decision-making and support my future goals in data analytics and BI development.
