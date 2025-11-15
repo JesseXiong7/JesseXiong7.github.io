@@ -175,10 +175,14 @@ I created Access reports using SQL Server tables and learned how to format layou
 **Power BI Report Builder**  
 I connected to SQL Server through data sources, created datasets, and built detailed, exception, and summary reports. I applied conditional formatting, expressions, parameters, tooltips, drill-through features, and interactive controls. I added charts, matrices, images, and logos and practiced exporting reports to Excel and Word.
 
-### Artifacts and Projects  
-- Final Report – Employee Salary History (rdl) 
-- Module 11 Parameter Lab (rdl)**  
-- KPI Conditional Formatting (Module 13)  
+### BI Data 1 – Paginated Reports Artifacts
+
+- [M11 – Parameter Lab](block2_artifacts/bi_data1_paginated/M11-Parameter_Lab.2.rdl)
+- [M14 – Map of WI Report](block2_artifacts/bi_data1_paginated/M14_Map_of_WI.rdl)
+- [Make It Happen – Address Report](block2_artifacts/bi_data1_paginated/M6-MakeItHappenAddressReport.rdl)
+- [Make It Happen – People Report](block2_artifacts/bi_data1_paginated/MakeItHappenPeopleReport.pdf)
+- [Module 9-2 Sales Report](block2_artifacts/bi_data1_paginated/Module_9-2_Sales_Report_Lab.rdl)
+- [Updated DB Diagram (Draw.io)](block2_artifacts/bi_data1_paginated/update_on_draw.io_for_DB_M3.9.PNG)   
 
 ### Reflection  
 BI Data 1 helped me understand how to transform SQL data into professional business reports. I learned techniques for improving report interactivity, readability, and visual clarity. These reporting skills are essential for business decision-making and support my future goals in data analytics and BI development.
