@@ -68,7 +68,7 @@ I explored database testing concepts and reviewed test plans to validate databas
 - [Relational Model – Northwinds](block2_artifacts/database2/RelationalModelNorthwinds.jpg)
 - [Drone Case Study ERD](block2_artifacts/database2/RelModDroneCaseStudyFull.jpeg)
 #### SQL Development Work
-- [Module 1 SQL Script](block2_artifacts/database2/Jxiong34_M1.sql)
+- [Module 1 SQL Script](block2_artifacts/database2/Jxiong34_M1.sql) 
 - [Module 4 SQL Script](block2_artifacts/database2/Jxiong34_M4_script.sql)
 #### System User Documentation
 - [User 4 Data Screenshot](block2_artifacts/database2/User%204.PNG)
