@@ -32,7 +32,7 @@ I learned how to build cleaner programs by breaking logic into functions. I work
 ### Programming Fundamentals Artifacts
 - [Index Page (HTML)](block2_artifacts/programming_fundamentals/Index.html)
 - [Module 4 – Unit 4 Lab Screenshot](block2_artifacts/programming_fundamentals/Module4-unit4Lab1.PNG)
-- [Final Project Idea Document](block2_artifacts/programming_fundamentals/ProgFund-Final Project Idea-Jxiong34.docx)
+- [Final Project Idea Document](block2_artifacts/programming_fundamentals/ProgFund-Final%20Project%20Idea-Jxiong34.docx) 
 - [Unit 6 – Moving JavaScript Lab Screenshot](block2_artifacts/programming_fundamentals/Unit6-Lab01movingJavaScript.js-Jxiong34.PNG)
 - [Algorithms Activity](block2_artifacts/programming_fundamentals/algorithms.html)
 - [BMI Calculator Script](block2_artifacts/programming_fundamentals/bmiCalculator.js) 
