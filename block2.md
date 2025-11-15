@@ -148,11 +148,9 @@ I explored unit, integration, and system testing as well as program, system, ope
 #### Appliance Warehouse Case Study  
 - [Gantt Chart – Case Study](block2_artifacts/systems_analysis_design/M4_-_Complete_Appliance_Warehouse_Case_Study-Gnatt_Chart.xlsx)  
 - [Draw.io Diagram – Case Study](block2_artifacts/systems_analysis_design/M6_-_Complete_Appliance_Warehouse_Case_Study.drawio.png)
-
-#### Together Farms Case Study  
-- [Together Farms Case Study – Part 2](block2_artifacts/systems_analysis_design/SAD-Jxiong34_CaseStudy2.docx)  
-- [Together Farms Case Study – Part 6](block2_artifacts/systems_analysis_design/SAD-Jxiong34_CaseStudy6.docx)  
-- [Together Farms Case Study – Part 9](block2_artifacts/systems_analysis_design/SAD-Jxiong34_CaseStudy9.docx)
+- [Appliance Warehouse Case Study – Part 2](block2_artifacts/systems_analysis_design/SAD-Jxiong34_CaseStudy2.docx)  
+- [Appliance Warehouse Case Study – Part 6](block2_artifacts/systems_analysis_design/SAD-Jxiong34_CaseStudy6.docx)  
+- [Appliance Warehouse Case Study – Part 9](block2_artifacts/systems_analysis_design/SAD-Jxiong34_CaseStudy9.docx) 
 
 ### Reflection  
 Systems Analysis & Design strengthened my ability to evaluate business needs, gather requirements, and design solutions that support organizational goals. The case studies helped me apply the SDLC in practical situations and understand how structured planning leads to successful system implementation.
