@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>Algorithms</title>
+    <link rel="stylesheet" href="resources/css/style.css" media="screen">
+    <link rel="stylesheet" href="resources/css/print.css" media="print">
+    <script src="resources/lib/jquery/jquery-1.7.2.min.js"></script>
+    <link rel="stylesheet" href="resources/lib/highlight/styles/default.css">
+    <script src="resources/lib/highlight/highlight.pack.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+  </head> 
+  <body>
+    <section class="container">
+      <header>
+        <h1>Programming Fundamentals</h1>
+        <h2><a href="index.html">Unit 3: Program Design and Debugging</a></h2>
+      </header>
+      
+      <main>
+        <h2>Algorithms</h2>
+        <h3>Here is a definition of the term:</h3>
+        <p> al&#8226;go&#8226;rithm  (<a href="http://en.wikipedia.org/wiki/Algorithm">wikipedia ref.</a>)</p>
+        <p>noun</p>
+        <p>a process or set of rules to be followed in calculations or other problem-solving operations, esp. by a computer : <em>a basic <strong>algorithm for</strong> division.</em></p>
+        <h3>How does it work?  Start by Defining the problem</h3>
+        <p>One way to think of computer programming is breaking down a process into small, manageable, and programmable pieces. Then we make pieces of a program out of each part of the process. Putting all the pieces together into a working computer program is the next step. </p>
+        <p>Developing <strong>algorithms</strong> is a part of the process we go through. This learning activity is about developing those algorithms. </p>
+        <p class="notice">An <strong>algorithm</strong> is a way of doing something. A shopping list of things we need to do. Assembly instructions for a new bike. Steps in dividing two numbers. Starting a car.</p>
+        <p>Algorithms in computer programming are more strict than the instructions for assembling a bike. A computer algorithm needs to be followed perfectly, every time. We must provide the correct instructions in terms of <strong>sequence</strong>, <strong>selection</strong>, and <strong>repetition</strong>.</p>
+        <p> Computers can only do what we tell them to do.  So, if we <strong>correctly </strong> tell them to do something - they do it quickly and correctly every time! And if we screw that up? You can guess what happens.</p>
+        <h3>The First Breakdown</h3>
+        <p>The first thing we do when breaking down a process is to identify three things: </p>
+        <ul>
+          <ol>
+            <li><em>Input:</em> a list of the source data provided to the problem.</li>
+            <li><em>Processing:</em> a list of actions needed to produce the required outputs.</li>
+            <li><em>Output:</em> a list of the outputs required.</li>
+          </ol>
+        </ul>
+        <p>We often start with a <strong>problem statement</strong> that defines what a program needs to do. Here's an example: </p>
+        <blockquote>
+          <p><em>A program is required to read three numbers, add them together and print the total formatted like this:</em></p>
+          <p>The total of 1 + 2 + 3 is 6.</p>
+        </blockquote>
+        <p>That problem statement might be something that's given to us if we're new to programming. But people often expect that we, the software developer, will come up with the problem statements ourselves. And that's where things can get messy; we have to be mindful of all details. <strong>And when we don't know something, we need to ask better questions.</strong></p>
+        <p>But once we have the problem statement, our first step is to identify the <strong>nouns</strong> in the problem statement. Why?? Because <strong>nouns</strong> are candidates for <strong>inputs</strong> and <strong>outputs</strong>. </p>
+        <blockquote>
+          <p><em>A program is required to read <strong><ins>three numbers</ins></strong>, add them together and print the <strong><ins>total</ins></strong>.</em></p>
+        </blockquote>
+        <p>We can see from this that the inputs are <strong>three numbers</strong> and the output is the <strong>total</strong>.</p>
+        <p>Next, we identify the verbs and adverbs in the statement. </p>
+        <blockquote>
+          <p><em>A program is required to <strong><ins>read</ins></strong> three numbers, <strong><ins>add</ins></strong> them together and <strong><ins>print</ins></strong> their total in the following format:</em></p>
+          <p><em>The total of 1 + 2 + 3 is 6.</em></p>
+        </blockquote>
+        <p>The verbs help us determine the processing that the programming need to do.</p>
+        <p>Seems pretty simple, right? Let's do a quick lab: </p>
+        <p class="lab_link"><a href="labs/lab-01-algorithmsNounsVerbs.html">Lab 1: Algorithms Nouns and Verbs</a></p>
+        <h3>Defining Diagram</h3>
+        <p> Once you identify nouns you have a very good idea what the inputs and output are. The verbs tell us about processes that must occur. <strong>To document inputs, processes, and outputs we use a Defining Diagram.</strong></p>
+        <p>There are several ways that programmers draw Defining Diagrams.  Sometimes, those diagrams are called "IPO Charts" (pronounced "ippo" charts, which rhymes with "hippo charts"). We're not going to do that here. For simplicity we are going to write our defining diagrams in a vertical plain text format. </p>
+        <p>Here is an example of the style of Defining Diagram that we will use in this class to document and visualize an algorithm. We'll first fill in the inputs and outputs and then add the processing in between.</p>
+
+<pre class="pseudocode">
+INPUTS:
+  number1
+  number2
+  number3
+
+PROCESSING:
+  read three numbers
+  add numbers together
+  print total number formatted as &quot;The total of 1 + 2 + 3 is 6.&quot;
+
+OUTPUTS:
+  total formatted as &quot;The total of 1 + 2 + 3 is 6.&quot;
+
+</pre>
+
+        <p>Remember that <strong>processing</strong> steps are things the program <strong>must do</strong>. For example, the <strong>inputs</strong> are pieces of data that will come into the program...but, in <strong>processing</strong> we must tell the computer to "read" those numbers. </p>
+        <p> It's important to have all processing steps in the Defining Diagram. So, after you list <strong>inputs</strong> and <strong>outputs</strong>, make sure to include any processing that must occur to: </p>
+        <ul>
+          <li>get the <strong>input</strong> (read three numbers)</li>
+          <li> to manipulate or calculate the input to turn it into <strong>output</strong> (add numbers together)</li>
+          <li> to display the <strong>output</strong> (print total number)</li>
+        </ul>
+        <p>You do not need to get into details at this point. This is not pseudocode. You are merely getting all of the processes grouped together in the right order. There's no need to get into the math at this point, and there's no need to make it look like code. It's just a list.</p>
+        <p>Here's the lab for making Defining Diagrams. </p>
+        <p class="lab_link"><a href="labs/lab-02-definingDiagrams.html">Lab 2: Defining Diagrams</a></p>
+        <h3>Designing a solution algorithm</h3>
+        <p>Next, we design a solution algorithm - which is where we use <strong>pseudocode</strong>!  If this step is done correctly, then writing the actual JavaScript code will go very smoothly. </p>
+        <p>We use pseudocode here because we don't have to be distracted by the syntax rules of the language. We can just write our thoughts without worrying about the tricky JavaScript (or <strong>ANY</strong> language) code we may have to write. </p>
+        <p><strong>Here's how it works. It's really pretty easy! </strong></p>
+        <p>Start with the defining diagram you did for the problem.</p>
+        <p><strong>Give the algorithm a name </strong>that briefly describes what the algorithm does. It's good to start with a verb. These names can be capitalized and should be camel cased. Here's the name of our algorithm for this exercise:</p>
+        <pre class="pseudocode">AddThreeNumbers</pre>
+        <p>That was easy! What's next?</p>
+        <p>Add an <span class="caps">END </span>statement to balance the name of the algorithm (really, just to designate a stopping point).</p>
+
+<pre class="pseudocode">AddThreeNumbers
+    ...
+END</pre>
+
+        <p>That was easy, too! That's the beginning and the end...now for the MIDDLE part...</p>
+        <p>Pseudocode has a little structure to mimic how it will look in real code. When we add the steps of the algorithm we indent them the same way we indent in JavaScript (For this class, that's two spaces). </p>
+        <p>Each of the steps relates directly to statements in the <strong>process</strong> section of the defining diagram. They can be exactly the same, or you can expand the details to make the programming part easier when you get to the JavaScript coding!</p>
+        <p>And...be sure to put the processing steps in the correct <strong>sequence</strong> at this point. <strong>Thanks to the defining diagram, much of that sequencing has already been done.</strong></p>
+        <p>So, here's what our pseudocode might look like:</p>
+
+<pre class="pseudocode">
+AddThreeNumbers
+  Prompt for number1
+  Prompt for number2
+  Prompt for number3
+  Set total = number1 + number2 + number3
+  Display total
+END
+</pre>
+
+        <p>Of course, you should get more verbose than that. Here's much better pseudocode:</p>
+
+<pre class="pseudocode">
+AddThreeNumbers
+  Initialize number1 to 0
+  Initialize number2 to 0
+  Initialize number3 to 0
+  Initialize total to 0
+
+  Prompt for number1 with &quot;Enter the first number&quot;
+  Prompt for number2 with &quot;Enter the second number&quot;
+  Prompt for number3 with &quot;Enter the third number&quot;
+
+  Set total = number1 + number2 + number3
+
+  Display "The total of &quot; + number1 + &quot; + &quot; +
+          number2 + &quot; + &quot; + number3&quot; +
+          &quot; is " + total + &quot;.&quot;
+END
+</pre>
+        <p>Notice that this version includes the text the user will see. It also includes the algorithm used to construct the output that gets displayd on the screen. Pseudocode is a planning tool more than anything, and if you find that this helps you "visualize" the program, then by all means be more specific. <strong>This second, more expressive form is preferred for assignments.</strong></p>
+        <p>Once you think you've got your head around this, demonstrate your abilities in this lab:</p>
+        <p class="lab_link"><a href="labs/lab-03-solutionAlgorithms.html">Lab 3: Creating Solution Algorithms</a></p>
+        <h3>Checking the solution algorithm</h3>
+        <p>One of the major advances in computer programming has come just in the past few years. It's called <strong>Test Driven Development</strong> or <span class="caps">TDD.</span> This is very important for new programmers because most of the local employers are implementing <span class="caps">TDD </span>at some level in the programming shops. (<a href="http://en.wikipedia.org/wiki/Test-driven_development">wikipedia ref.</a>)</p>
+        <p>With TDD, you first write code that will test your real code. Then you write the real code. When you run the testing code it will use your real code just like in the final application. If it runs correctly then it has passed the test. One benefit of this process is that you get a bunch of tests you can use to prove your code works. But TDD is more than just some checks - it's part of the design process. By writing test cases first, you're forced to think more about how your code will work and how your algorithm is designed.</p>
+        <p>We're going to start thinking about <span class="caps">TDD </span>by using the "Desk Checking" concept. This is a manual process that you do "on your desk". It won't be automatic, but you're not expected to do automatic TDD yet. We're just getting you ready to do <span class="caps">TDD </span>without doing the coding part. Eventually, you'll get the chance to play with real test cases.</p>
+        <h4>Steps in Checking an Algorithm</h4>
+        <ol>
+          <li>Choose 2 or 3 simple input test cases that are valid.</li>
+          <li>Establish what the expected result should be for each test case.</li>
+          <li>Write the relevant variables in the testing section of the project or lab. We'll have a section of our files where we write down the variables, the test data, the expected results, and the actual results when we're done with the code.</li>
+          <li>Then test the algorithm by running your test cases through it. You just do the calculation without any computer code, use a calculator if you need to. Then write down your expected results.</li>
+          <li>Repeat this for all your test data.</li>
+        </ol>
+        <h4>Example:</h4>
+        <p>Here's the pseudocode for the example we've been looking at:</p>
+
+<pre class="pseudocode">
+ALGORITHM:
+
+AddThreeNumbers
+  Initialize number1 to 0
+  Initialize number2 to 0
+  Initialize number3 to 0
+  Initialize total to 0
+
+  Prompt for number1 with &quot;Enter the first number&quot;
+  Prompt for number2 with &quot;Enter the second number&quot;
+  Prompt for number3 with &quot;Enter the third number&quot;
+
+  Set total = number1 + number2 + number3
+
+  Display "The total of &quot; + number1 + &quot; + &quot; +
+          number2 + &quot; + &quot; + number3&quot; +
+          &quot; is " + total + &quot;.&quot;
+END
+</pre>
+
+         <p>And here are our test plans:</p>
+<pre class="pseudocode">
+VARIABLES: number1, number2, number3, total
+
+TEST CASE 1:
+
+  INPUT VALUES: 10, 20, 30
+
+  EXPECTED RESULT: &quot;The total of 10 + 20 + 30 is 60.&quot;
+
+  ACTUAL RESULT: Fill this in.
+
+TEST CASE 2:
+
+  INPUT VALUES: 40, 41, 42
+
+  EXPECTED RESULT: &quot;The total of 40 + 41 + 42 is 123.&quot;
+
+  ACTUAL RESULT: Fill this in.
+</pre>
+
+        <p>Note that we list the input variables, in the order of our inputs.
+          This makes it easy to see which number corresponds to which input variable.
+        </p>
+        <p>
+          Once we turn the solution algorithm into working code, we would come back and fill in the actual data. However, we might discover
+          that we have an issue with our code: JavaScript requires that we
+          		<strong>convert the data we got from the user</strong>, which comes to us as strings, into numbers before we can add the numbers together.
+        So we may modify our pseudocode so it looks like this: </p>
+
+<pre class="pseudocode">
+AddThreeNumbers
+  Initialize number1 to 0
+  Initialize number2 to 0
+  Initialize number3 to 0
+  Initialize total to 0
+
+  Prompt for number1 with &quot;Enter the first number&quot;
+  Prompt for number2 with &quot;Enter the second number&quot;
+  Prompt for number3 with &quot;Enter the third number&quot;
+
+  Convert number1 to a number
+  Convert number2 to a number
+  Convert number3 to a number
+
+  Set total = number1 + number2 + number3
+
+  Display "The total of &quot; + number1 + &quot; + &quot; +
+          number2 + &quot; + &quot; + number3&quot; +
+          &quot; is " + total + &quot;.&quot;
+END
+</pre>
+        <p>There. Much better pseudocode. Now we have a well-designed solution
+          algorithm we can transform into JavaScript code.
+        </p>
+
+
+        <p><strong>Going forward, you'll need to provide at least three test plans
+            as part of your program design. These plans should test various
+            aspects of your program so they are an accurate test of the
+            way the program should respond. Don't let your users be your testers!</strong>
+        </p>
+
+        <div class="notice">
+          This would be a good time for you to crack open your text editor
+          and retype this pseudocode. Then convert it into JavaScript code
+          for practice.
+        </div>
+
+        <p>Go back to the main page to continue...</p>
+        <p><a href="index.html">Back</a></p>
+      </main>
+      
+      <footer>
+        <p>
+          Latest Version: 1.2302
+        </p>
+      </footer>
+
+    </section>
+  </body>
+</html>
