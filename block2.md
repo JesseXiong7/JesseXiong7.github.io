@@ -1,9 +1,10 @@
 # Block 2 – Building Technical Skills in Programming, Databases & Business Analytics  
 ### Second Semester
 
-Block 2 represents the next stage of my journey in the **IT–Data Analytics** program at CVTC.  
-During my second semester, I completed **Programming Fundamentals (10-152-101)**, **Database 2 (10-152-136)**, **Business Analytics (10-102-109)**, **Systems Analysis & Design (10-156-101)**, and **BI Data 1 – Paginated Reports (10-156-103)**.  
-These courses strengthened my ability to work with programming logic, advanced SQL, system modeling, business analytics, and professional reporting tools. This semester helped me connect technical processes to real business needs, apply structured problem-solving methods, and deepen my understanding of how data moves across systems and organizations.
+Block 2 marks a shift from foundational learning to hands-on technical application in the IT–Data Analytics program at CVTC.  
+During this semester, I completed **Programming Fundamentals (10-152-101)**, **Database 2 (10-152-136)**, **Business Analytics (10-102-109)**, **Systems Analysis & Design (10-156-101)**, and **BI Data 1 – Paginated Reports (10-156-103)**.
+
+This semester focused on building practical skills: writing structured programs, creating multi-table databases, analyzing data with spreadsheets, modeling information systems, and producing professional paginated reports. Each course pushed me into deeper technical work and expanded my ability to apply tools in real business scenarios.
 
 ---
 
@@ -160,4 +161,6 @@ BI Data 1 helped me understand how to transform SQL data into professional busin
 
 ---
 
+## Block 2 Summary 
+Through **Programming Fundamentals**, **Database 2**, **Business Analytics**, **Systems Analysis & Design**, and **BI Data 1 - Paginated**, I strengthened my technical and analytical abilities across multiple tools and systems. I learned how data is gathered, structured, analyzed, and presented, and how systems support business operations from start to finish. These courses helped me think more critically, solve problems more efficiently, and build the skills needed for higher-level data analytics and future project work.
 
