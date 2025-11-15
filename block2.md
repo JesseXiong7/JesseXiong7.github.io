@@ -29,10 +29,13 @@ I gained experience writing counted loops using FOR and uncounted loops using WH
 **Functions and Data Structures**  
 I learned how to build cleaner programs by breaking logic into functions. I worked with arrays and dictionaries to store multiple values and used return statements to pass information back to the main program. These skills helped me write more structured and organized code.
 
-### Artifacts and Projects  
-- Pseudocode and Flowchart Assignments  
-- Decision-Making Logic Projects  
-- BMI Calculator (index.html + script.js)
+### Programming Fundamentals Artifacts
+- [Index Page (HTML)](block2_artifacts/programming_fundamentals/Index.html)
+- [Module 4 – Unit 4 Lab Screenshot](block2_artifacts/programming_fundamentals/Module4-unit4Lab1.PNG)
+- [Final Project Idea Document](block2_artifacts/programming_fundamentals/ProgFund-Final Project Idea-Jxiong34.docx)
+- [Unit 6 – Moving JavaScript Lab Screenshot](block2_artifacts/programming_fundamentals/Unit6-Lab01movingJavaScript.js-Jxiong34.PNG)
+- [Algorithms Activity](block2_artifacts/programming_fundamentals/algorithms.html)
+- [BMI Calculator Script](block2_artifacts/programming_fundamentals/bmiCalculator.js) 
 
 ### Reflection  
 Programming Fundamentals helped me think like a developer. I learned how to break down a problem, design the logic, and build a program from start to finish. These skills prepared me for more advanced coursework in Python, ETL, Power BI, and data analytics.
