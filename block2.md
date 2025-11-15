@@ -101,11 +101,20 @@ I learned how to create PivotTables, PivotCharts, line graphs, comparison charts
 **Business Decision Making**  
 I practiced validating data accuracy, evaluating actions based on data, and summarizing findings into recommendations. The course showed me how analytics supports operational and strategic decisions.
 
-### Artifacts and Projects  
-- Toyota vs. Honda Consumer Interest Analysis  
-- PS5 vs. Xbox Consumer Interest Analysis  
-- Excel Dashboard and KPI Visualizations
-
+### Business Analytics Artifacts
+#### Excel Analysis Projects
+- **Toyota vs. Honda Consumer Interest Analysis**  
+  [BA-MidTermToyotaHonda.xlsx](block2_artifacts/business_analytics/BA-MidTermToyotaHonda.xlsx)
+- **Final Comprehensive Analysis Workbook**  
+  [Final Comprehensive Analysis.xlsx](block2_artifacts/business_analytics/Final%20Comprehensive%20Analysis.xlsx)
+- **Student Data Activity Workbook (Module 6.3)**  
+  [M6.3 Workbook Student Data File activities.jxiong34.xlsx](block2_artifacts/business_analytics/M6.3%20Workbook%20Student%20Data%20File%20activities.jxiong34.xlsx)
+#### Visuals & Diagrams
+- **Data Flow Diagram (DFD)**  
+  [DFD.PNG](block2_artifacts/business_analytics/DFD.PNG)
+#### Dashboard Project
+- **World Happiness Power BI Dashboard (Module 13)**  
+  [M13-WorldHappinessDashboard.pbix](block2_artifacts/business_analytics/M13-WorldHappinessDashboard.pbix) 
 ### Reflection  
 Business Analytics helped me see how raw data becomes real business insight. Through hands-on Excel projects, I gained experience analyzing trends, building dashboards, and creating recommendations backed by data. These skills are essential for future work in reporting and visualization tools like Power BI.
 
