@@ -32,9 +32,9 @@ I learned about password management and how to identify phishing and social engi
 I was introduced to GitHub for version control and hosting projects, which I now use for my academic portfolio and future data projects.  
 
 ### Artifacts and Projects  
-- [Command Prompt Tree Diagram](artifacts/intro_computers_programming/Command%20Promt%20Tree%20Diagram.PNG)  
-- [Smiley Face in JavaScript (jsActivity.html)](artifacts/intro_computers_programming/jsActivity.html)  
-- [Animated Rainbow Visual (jxiong34_turtle.html)](artifacts/intro_computers_programming/jxiong34_turtle.html)  
+- [Command Prompt Tree Diagram](block1_artifacts/intro_computers_programming/Command%20Prompt%20Tree%20Diagram.PNG)
+- [Smiley Face in JavaScript](block1_artifacts/intro_computers_programming/jsActivity.html)
+- [Animated Rainbow Visual](block1_artifacts/intro_computers_programming/jxiong34_turtle.html)  
 
 ### Reflection  
 This course gave me a solid understanding of how computers and software work together. I learned how to use both the Command Prompt and programming tools to organize data and create simple programs. It helped me build problem-solving skills and confidence in writing code. I also learned the importance of cybersecurity and version control in IT. Overall, this course gave me the foundation I needed to move forward in programming, databases, and data analytics.    
