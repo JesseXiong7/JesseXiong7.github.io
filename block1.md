@@ -63,13 +63,13 @@ I learned to review query results for accuracy, debug SQL errors, and analyze re
 I became comfortable cleaning, organizing, and summarizing data so it can be used for analytics and visualization.  
 
 ### Artifacts and Projects  
-- [Drone Module ERD](artifacts/database1/jxiong34_drone_EER.png)  
-- [Rewards Module ERD](artifacts/database1/jxiong34_rewards_EER.png)  
+- [Drone Module ERD](block1_artifacts/database1/jxiong34_drone_EER.png)  
+- [Rewards Module ERD](block1_artifacts/database1/jxiong34_rewards_EER.png)  
 
 **SQL Query Labs:**  
-- [Jxiong34_m5.4.sql](artifacts/database1/jxiong34_m5.4.sql)  
-- [Jxiong34_m7.3.sql](artifacts/database1/Jxiong34_m7.3.sql)  
-- [Jxiong34_m8.sql](artifacts/database1/Jxiong34_m8.sql) 
+- [jxiong34_m5.4.sql](block1_artifacts/database1/jxiong34_m5.4.sql)  
+- [jxiong34_m7.3.sql](block1_artifacts/database1/jxiong34_m7.3.sql)  
+- [jxiong34_m8.sql](block1_artifacts/database1/jxiong34_m8.sql) 
 
 ### Reflection  
 This course taught me how to design efficient databases and write queries that turn raw data into useful insights. I learned how important clean data and good design are for accuracy. Database 1 helped me build the foundation for advanced courses in ETL, Power BI, and data visualization.  
