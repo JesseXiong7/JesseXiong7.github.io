@@ -1,319 +1,165 @@
-# Block 2 – Building Technical Skills in Programming, Databases & Business Analytics
+# Block 2 – Building Technical Skills in Programming, Databases & Business Analytics  
 ### Second Semester
 
 Block 2 represents the next stage of my journey in the **IT–Data Analytics** program at CVTC.  
-During my second semester, I completed **Programming Fundamentals (10-152-101)**, **Database 2 (10-152-136)**, **BI Data 1 – Paginated Reports (10-156-103)**, **Business Analytics (10-102-109)**, and **Systems Analysis & Design (10-156-101)**.
-These courses helped me apply real technical skills in programming, SQL, system modeling, reporting tools, and business decision-making. Together, they strengthened my understanding of how data is collected, stored, analyzed, and used across organizations. Block 2 pushed me to think critically, work with more advanced tools, and connect technical processes to real business problems.
+During my second semester, I completed **Programming Fundamentals (10-152-101)**, **Database 2 (10-152-136)**, **Business Analytics (10-102-109)**, **Systems Analysis & Design (10-156-101)**, and **BI Data 1 – Paginated Reports (10-156-103)**.  
+These courses strengthened my ability to work with programming logic, advanced SQL, system modeling, business analytics, and professional reporting tools. This semester helped me connect technical processes to real business needs, apply structured problem-solving methods, and deepen my understanding of how data moves across systems and organizations.
 
 ---
 
 ## 🧠 10-152-101 Programming Fundamentals  
 
 ### Overview  
-This course strengthened my understanding of how programs are planned, written, and tested. I learned the difference between **logic** and **syntax**, the stages of software development, and how input, output, and assignment work in a program. I practiced using **pseudocode**, **flowcharts**, and **JavaScript** to design solutions, and learned how debugging, testing, and structured logic are essential to building working applications.
-
----
+This course taught me the foundations of software development and helped me understand how programs are planned, written, tested, and debugged. I learned the difference between logic and syntax, how data flows through a program using input and output, and how various programming structures control application behavior. I practiced designing algorithms using pseudocode and flowcharts and built working JavaScript programs that reinforced problem-solving and code structure.
 
 ### What I Learned  
-
 **Core Programming Concepts**  
-I explored how applications are developed from idea to execution, including:  
-- Understanding software development stages  
-- Compilers vs. interpreters  
-- Types of programming languages  
-- Logic vs. syntax  
-- Why testing is part of the design process  
+I explored the stages of software development and the differences between compilers and interpreters. I identified types of programming languages and learned why testing must be built into every stage of development. Understanding logic versus syntax helped me quickly identify and fix code issues.
 
-**Logic & Problem Solving**  
-- Designed algorithms using pseudocode  
-- Built flowcharts for business problems  
-- Used arithmetic, relational, and logical operators  
-- Practiced input, output, and assignment  
+**Logic and Problem Solving**  
+I practiced writing pseudocode to outline program solutions and created flowcharts to visualize step-by-step logic. I worked with arithmetic, relational, and logical operators to perform calculations and guide program decisions. I learned how input, output, and assignment operations transmit and store information inside a program.
 
 **Decision Structures**  
-- IF and IF/Else statements  
-- Nested decision logic  
-- Switch statements  
+I wrote decision-based programs using IF and IF/Else statements. I created nested decision structures to handle more complex conditions and used switch statements to simplify multiple-case decisions.
 
-**Loops & Repetition**  
-- Counted loops (FOR)  
-- Uncounted loops (WHILE)  
-- Counters and accumulators  
-- Test plans for validating loops  
+**Loops and Repetition**  
+I gained experience writing counted loops using FOR and uncounted loops using WHILE. I applied counters and accumulators to track totals during repetition and used test plans to ensure each loop worked correctly.
 
-**Functions & Data Structures**  
-- Broke programs into reusable functions  
-- Worked with arrays  
-- Used dictionaries (hashes)  
-- Returned values from functions  
-
----
+**Functions and Data Structures**  
+I learned how to build cleaner programs by breaking logic into functions. I worked with arrays and dictionaries to store multiple values and used return statements to pass information back to the main program. These skills helped me write more structured and organized code.
 
 ### Artifacts and Projects  
-- JavaScript debugging practice  
+- JavaScript debugging exercises  
 - Pseudocode and flowchart assignments  
-- Decision-making logic projects  
-- Looping exercises  
-- **Final Project: BMI Calculator** (index.html + JS script)  
-- Unit labs & screenshots (Modules 3–7)
-
----
+- Decision and looping logic projects  
+- **Final Project: BMI Calculator (index.html + script.js)**  
+- Unit lab screenshots (Modules 3–7)
 
 ### Reflection  
-Programming Fundamentals helped me learn to think like a developer—breaking down complex problems and designing clear, testable logic. The debugging, pseudocode, and structured coding skills prepared me for future programming work in Python, ETL, and analytics.
+Programming Fundamentals helped me think like a developer. I learned how to break down a problem, design the logic, and build a program from start to finish. These skills prepared me for more advanced coursework in Python, ETL, Power BI, and data analytics.
 
 ---
 
 ## 🗄️ 10-152-136 Database 2  
 
 ### Overview  
-Database 2 expanded my understanding of relational database systems, SQL, and modern Database Management Systems (DBMS). I learned database history, core DBMS features, relational design standards, and how to build and test multi-table databases. This course built on Database 1 and pushed me deeper into SQL development, user management, and real-world data modeling.
-
----
+Database 2 expanded my understanding of relational databases, SQL, and Database Management Systems (DBMS). I learned how databases evolved, how modern DBMS platforms store and secure data, and how multi-table systems support real business processes. This course built on Database 1 and introduced user management, advanced SQL development, relational modeling, and data visualization through Tableau.
 
 ### What I Learned  
-
-**Evolution of Databases & DBMS Concepts**  
-- History of databases  
-- DBMS terminology  
-- Components of a database system  
-- Comparing major database technologies  
-- Current & future database trends  
+**Evolution of Databases and DBMS Concepts**  
+I explored the history of database systems and learned key database terminology. I compared major database technologies and studied the components that make databases secure, reliable, and scalable.
 
 **Database Development Environment**  
-- Installing & configuring a DBMS  
-- Creating and managing database users  
-- Assigning privileges with `GRANT` and reviewing them with `SHOW GRANTS`  
+I practiced installing and configuring a DBMS, managing database users, and assigning privileges using GRANT and SHOW GRANTS. This helped me understand user access control and database security.
 
-**Relational Database Design & ERDs**  
-I practiced:  
-- Converting data models into working databases  
-- Creating multi-table relational structures  
-- Applying PK/FK relationships  
-- Normalization (1NF–3NF)  
-- Diagramming ERDs using Visio/Dia  
-
-A major assignment was building a **LinkedIn-style ERD**, applying relational design and integrity constraints.
+**Relational Database Design and ERDs**  
+I reviewed relational terminology, data modeling strategies, and normalization rules. I created fully linked relational models and practiced designing ERDs using diagramming tools. One major project was creating a **LinkedIn-style ERD**, applying PK/FK relationships and entity-attribute analysis.
 
 **Advanced SQL Development**  
-I learned how to:  
-- Write multi-table JOINs  
-- Compose nested queries  
-- Use `GROUP BY`, `HAVING`, and aggregate functions  
-- Create & modify tables with SQL  
-- Use computed columns  
-- Write full SQL scripts for automation  
+I learned to write complex SQL queries involving multi-table JOINs, nested queries, GROUP BY and HAVING clauses, computed columns, and full SQL scripts. I created and modified tables using SQL and practiced data manipulation using INSERT, UPDATE, and DELETE.
 
-**Database Testing & Optimization**  
-- Creating test plans  
-- Running and validating test results  
-- Identifying performance issues  
-- Comparing stored procedures vs. scripts  
-
-**Industry Tools & Tableau Reporting**  
-I also created dashboards in **Tableau**, using bar charts, line charts, and geographic charts, learning how relational data supports industry reporting.
-
----
+**Testing, Optimization, and Real-World Application**  
+I explored database testing concepts and reviewed test plans to validate database behavior. I learned how performance issues occur and how stored procedures differ from scripts. The course also included a module on Tableau, where I built dashboards using bar, line, and map visualizations.
 
 ### Artifacts and Projects  
-- LinkedIn-style ERD (Module 3)  
-- Advanced SQL query labs  
-- User privilege management exercises  
-- Multi-table database creation  
-- Tableau Dashboard (Module 8)
-
----
+- LinkedIn-Style ERD (Module 3)  
+- SQL User Privilege Management (GRANT assignments)  
+- Tableau Dashboard Project (Module 8)
 
 ### Reflection  
-Database 2 helped me grow from writing basic SQL to designing full relational systems. I learned how to manage users, build ERDs, test database functionality, and support analytics through dashboards. This course strengthened both my technical accuracy and my understanding of how databases support the business.
+Database 2 helped me advance from simple SQL queries to designing full database systems. I gained practical experience building relational structures, securing user access, optimizing queries, and connecting databases to visualization tools. This course strengthened my technical skills and prepared me for more advanced data engineering and analytics work.
 
 ---
 
 ## 📊 10-102-109 Business Analytics  
 
 ### Overview  
-Business Analytics introduced me to how organizations use data to understand performance, spot trends, and support decision-making. I learned how descriptive, predictive, and prescriptive analytics work together, and I practiced using Excel to analyze data, build visualizations, and make business recommendations.
-
----
+Business Analytics introduced me to how data is used to support business decisions across industries. I learned how descriptive, predictive, and prescriptive analytics work together and how Excel can be used to summarize data, track performance, build dashboards, and uncover trends. This course strengthened my ability to analyze data and convert it into meaningful insights.
 
 ### What I Learned  
-
 **Foundations of Business Analytics**  
-- Business Analytics vs. Business Intelligence vs. Data Science  
-- Key business analytics terminology  
-- KPIs across industries  
-- Skills required for analytics professionals  
+I learned the differences between Business Analytics, Business Intelligence, and Data Science. I explored common industry terminology and the role of KPIs in measuring performance. I also explored the skills needed by analytics professionals and how organizations use data to guide decisions.
 
-**Spreadsheet Analytics Skills**  
-- AVERAGE, MIN, MAX, MEDIAN, MODE  
-- COUNT, COUNTIF, COUNTIFS, FREQUENCY  
-- SUMIF, AVERAGEIF  
-- INDEX/MATCH & VLOOKUP  
-- Absolute, mixed, and relative referencing  
-- Linking formulas across worksheets  
-- Logical functions  
-- What-If Analysis  
+**Spreadsheet Analysis and Functions**  
+I practiced using Excel for data analysis, working with functions such as AVERAGE, MIN, MAX, MEDIAN, MODE, COUNTIFS, SUMIF, INDEX/MATCH, and VLOOKUP. I learned how to use absolute, mixed, and relative referencing and linked formulas across multiple worksheets. I also explored What-If Analysis and logical functions to evaluate possible outcomes.
 
-**Descriptive, Predictive & Prescriptive Analytics**  
-I learned to:  
-- Summarize data  
-- Identify trends  
-- Forecast scenarios  
-- Recommend business actions  
+**Descriptive, Predictive, and Prescriptive Analytics**  
+I learned how to summarize data, identify trends, forecast scenarios, and recommend actions. I explored how these three forms of analytics support business decisions.
 
-**Data Visualization & Dashboards**  
-- Tables  
-- PivotTables & PivotCharts  
-- Line graphs & comparison charts  
-- Dashboard-style layouts  
-- Selecting visualizations for business decisions  
+**Data Visualization and Dashboards**  
+I learned how to create PivotTables, PivotCharts, line graphs, comparison charts, and dashboard-style layouts. I gained experience selecting the correct visualization for business presentations.
 
-**Data-Driven Decisions**  
-- Using open-source data  
-- Validating accuracy  
-- Making recommendations backed by evidence  
-
----
+**Business Decision Making**  
+I practiced validating data accuracy, evaluating actions based on data, and summarizing findings into recommendations. The course showed me how analytics supports operational and strategic decisions.
 
 ### Artifacts and Projects  
-
-**Toyota vs. Honda Consumer Interest Analysis**  
-- Used Excel functions (AVERAGE, COUNTIFS, FREQUENCY)  
-- Built line charts showing weekend peaks  
-- Used VLOOKUP and INDEX/MATCH  
-- Identified KPIs & patterns  
-- Wrote descriptive, predictive & prescriptive insights  
-
-**PS5 vs. Xbox Interest Analysis**  
-- Used SUMIF/AVERAGEIF, COUNTIF/COUNTIFS, FREQUENCY  
-- Built Excel visual dashboard  
-- Analyzed holiday spikes (Black Friday, Cyber Monday)  
-- Computed averages, mins/maxes, and key trends  
-
----
+- **Toyota vs. Honda Consumer Interest Analysis**  
+- **PS5 vs. Xbox Consumer Trend Dashboard**  
+- **Business recommendation reports using descriptive, predictive, and prescriptive analytics**
 
 ### Reflection  
-Business Analytics helped me understand how raw data becomes real business value. Through hands-on projects, I practiced summarizing trends, building dashboards, and making data-driven recommendations. These skills strengthened my analytical thinking and prepared me for more advanced reporting tools.
+Business Analytics helped me see how raw data becomes real business insight. Through hands-on Excel projects, I gained experience analyzing trends, building dashboards, and creating recommendations backed by data. These skills are essential for future work in reporting and visualization tools like Power BI.
 
 ---
 
 ## 🛠️ 10-156-101 Systems Analysis & Design  
 
 ### Overview  
-Systems Analysis & Design taught me how information systems are planned, analyzed, designed, implemented, and supported through the **Systems Development Life Cycle (SDLC)**. I learned the role of systems analysts, how organizations identify business needs, and how requirements are gathered and transformed into system designs. The course showed me how IT supports operations, decision-making, and long-term business strategy. I also practiced applying the SDLC in real scenarios, including major case studies involving Appliance Warehouse and Together Farms.
-
----
+Systems Analysis & Design taught me how information systems are planned, analyzed, designed, implemented, and supported throughout the **Systems Development Life Cycle (SDLC)**. I learned how organizations identify business needs, gather requirements, and design systems that support operations and decision-making. The course helped me understand how analysts model processes and ensure that systems meet user and organizational goals.
 
 ### What I Learned  
+**SDLC Foundations and System Planning**  
+I explored the phases of the SDLC and the role of the systems analyst in managing system development. I learned how IT impacts organizations and how businesses use technology to support productivity. The course covered B2B and B2C strategies, the five components of an information system, and the planning steps needed to evaluate and approve system requests. I practiced creating SWOT analyses, business cases, project schedules, Gantt charts, and risk management plans.
 
-**SDLC Foundations & System Planning**  
-I explored the purpose of the SDLC and how systems analysts help organizations solve problems. I learned:  
-- The SDLC phases and their role in system development  
-- How IT impacts organizations and society  
-- The five components of an information system  
-- B2B and B2C internet strategies  
-- How to write business cases and evaluate system requests  
-- SWOT analysis and strategic planning  
-- Project planning, scheduling, Gantt charts, and risk management  
+**Requirements Gathering and Analysis**  
+I learned how to identify system requirements using interviews, surveys, observations, document reviews, and research. I practiced creating fact-finding plans and explored JAD, RAD, and agile methods for gathering and refining requirements. I learned how requirement challenges arise and how analysts use diagrams, natural language, and models to represent system needs.
 
-**Requirements Gathering & Analysis Techniques**  
-I practiced techniques used to collect and analyze system requirements, including:  
-- Interviews, surveys, observation, document review, and research  
-- JAD, RAD, and agile methods  
-- Fact-finding plans  
-- Challenges of defining accurate system requirements  
-- Representing requirements using natural language, diagrams, and models  
-
-**Modeling & Diagramming Tools**  
-I learned how to model business processes and system structures using:  
-- Data Flow Diagrams (DFDs)  
-- Data dictionaries  
-- UML diagrams and object-oriented analysis concepts  
-- Object relationship diagrams  
-- ERD concepts related to system design  
+**Modeling and Diagramming Tools**  
+I learned to create Data Flow Diagrams (DFDs), data dictionaries, UML diagrams, object relationship diagrams, and ERDs. These tools helped me visualize how information flows through a system and how processes, users, and data interact.
 
 **System Design Concepts**  
-I explored how systems are designed to support users and business goals:  
-- User interface design guidelines  
-- Input/output design and source document requirements  
-- Modular and responsive interface trends  
-- System architecture, network models, online vs. batch processing  
-- DBMS concepts and relational database structures  
+I studied design concepts including user interface guidelines, input and output design, modular and responsive interface trends, network models, system architecture, and DBMS concepts. I learned how systems are structured to support performance, scalability, and usability.
 
-**Implementation, Testing, Support & Security**  
-I learned what happens after a system is built, including:  
-- Coding basics and structured, object-oriented, and agile development  
-- Unit testing, integration testing, and system testing  
-- Program, system, operations, and user documentation  
-- System installation and deployment tasks  
-- System maintenance, performance management, disaster recovery  
-- Security risks, risk management, and six levels of system security  
+**Implementation, Testing, and Support**  
+I explored unit, integration, and system testing as well as program, system, operations, and user documentation. I learned about installation steps, maintenance strategies, system security, performance management, disaster recovery, and the lifecycle of long-term system support.
 
----
-
-### Artifacts and Projects   
+### Artifacts and Projects  
 - SDLC Vacation Assignment  
 - Appliance Warehouse Case Study  
 - Together Farms Case Study  
-- ERP System Evaluation (Acumatica recommendation)  
-- System request forms, SWOT analyses, and planning documents  
-- DFDs, UML diagrams, and object relationship diagrams  
-
----
+- ERP System Evaluation (Acumatica Analysis)
 
 ### Reflection  
-Systems Analysis & Design helped me understand how large-scale information systems are planned and built. I learned how to gather requirements, analyze system needs, create diagrams, and plan for implementation and maintenance. The case studies helped me apply these methods in realistic scenarios and reinforced how structured planning and strong system design lead to better business outcomes. This course improved my ability to think like an analyst, communicate solutions, and understand how technology supports an organization from start to finish.
+Systems Analysis & Design strengthened my ability to evaluate business needs, gather requirements, and design solutions that support organizational goals. The case studies helped me apply the SDLC in practical situations and understand how structured planning leads to successful system implementation.
 
 ---
 
 ## 📄 10-156-103 BI Data 1 – Paginated Reports  
 
 ### Overview  
-BI Data 1 taught me how to create detailed, professional business reports using SQL Server, ODBC connections, Microsoft Access, and Microsoft Power BI Report Builder. I learned how to connect databases to reporting tools, build datasets from SQL queries, and design paginated reports that support real business decision-making.
-
----
+BI Data 1 taught me how to connect SQL Server databases to reporting tools and build detailed, interactive paginated reports. I learned how historical and modern reporting practices support business communication, and I gained hands-on experience using Microsoft Access and Microsoft Power BI Report Builder to create professional reports.
 
 ### What I Learned  
-
 **Foundations of Data Presentation**  
-- History of reporting and evolution of data presentation  
-- Key reporting terminology  
-- How reporting supports business insights  
+I explored the history and evolution of data presentation and learned common reporting terminology. I learned how reporting software supports business insight and how paginated reports differ from dashboard-style visualizations.
 
-**SQL Server & ODBC Connections**  
-- Installed SQL Server Developer & SSMS  
-- Restored databases and created tables  
-- Queried data using SELECT, WHERE, JOIN, and IN clauses  
-- Configured ODBC data sources and connected them to reporting tools  
+**SQL Server and Data Connections**  
+I installed SQL Server Developer and SQL Server Management Studio and practiced restoring databases, creating tables, and running SQL scripts. I configured ODBC data sources and learned how to connect them to reporting tools. I created datasets using SQL queries with SELECT, JOIN, WHERE, and IN clauses and used SQL to insert, update, and manage records.
 
 **Microsoft Access Reporting**  
-- Created reports from SQL Server tables  
-- Formatted layouts using grouping, sorting, and object properties  
+I created Access reports using SQL Server tables and learned how to format layouts, group data, and sort information. I practiced customizing report design using Access object properties.
 
 **Power BI Report Builder**  
-I learned how to:  
-- Connect to SQL Server via data sources  
-- Create datasets with SQL queries  
-- Build detailed, summary, and KPI-style reports  
-- Add tables, matrices, charts, and lists  
-- Use parameters (dropdowns, exact match, multi-select)  
-- Apply expressions and conditional formatting  
-- Add interactive features like tooltips and drill-through  
-- Export reports to Excel and Word  
-
----
+I connected to SQL Server through data sources, created datasets, and built detailed, exception, and summary reports. I applied conditional formatting, expressions, parameters, tooltips, drill-through features, and interactive controls. I added charts, matrices, images, and logos and practiced exporting reports to Excel and Word.
 
 ### Artifacts and Projects  
-- **M11 – Parameter Lab Report (rdl)**  
-- **Final Project – Employee Salary History Report (rdl)**  
-- **Module 13 – KPI Conditional Formatting Document**
-
----
+- **Final Report – Employee Salary History (rdl)**  
+- **Module 11 Parameter Lab (rdl)**  
+- **KPI Conditional Formatting (Module 13)**  
 
 ### Reflection  
-BI Data 1 strengthened my ability to connect databases to reporting tools and transform raw SQL data into clear, structured, and interactive reports. I learned how to design professional paginated reports using parameters, expressions, and conditional formatting, and how reporting supports decision-making across an organization. This course improved both my SQL skills and my reporting design abilities.
+BI Data 1 helped me understand how to transform SQL data into professional business reports. I learned techniques for improving report interactivity, readability, and visual clarity. These reporting skills are essential for business decision-making and support my future goals in data analytics and BI development.
 
 ---
-
 
 
