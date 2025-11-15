@@ -63,10 +63,17 @@ I learned to write complex SQL queries involving multi-table JOINs, nested queri
 **Testing, Optimization, and Real-World Application**  
 I explored database testing concepts and reviewed test plans to validate database behavior. I learned how performance issues occur and how stored procedures differ from scripts. The course also included a module on Tableau, where I built dashboards using bar, line, and map visualizations.
 
-### Artifacts and Projects  
-- LinkedIn-Style ERD (Module 3)  
-- SQL User Privilege Management (GRANT assignments)  
-- Tableau Dashboard Project (Module 8)
+### Database 2 Artifacts
+#### Entity Relationship Diagrams (ERDs)
+- [Relational Model – Northwinds](block2_artifacts/database2/RelationalModelNorthwinds.jpg)
+- [Drone Case Study ERD](block2_artifacts/database2/RelModDroneCaseStudyFull.jpeg)
+#### SQL Development Work
+- [Module 1 SQL Script](block2_artifacts/database2/Jxiong34_M1.sql)
+- [Module 4 SQL Script](block2_artifacts/database2/Jxiong34_M4_script.sql)
+#### System User Documentation
+- [User 4 Data Screenshot](block2_artifacts/database2/User%204.PNG)
+#### Tableau Dashboard
+- [Tableau Visualization Screenshot](block2_artifacts/database2/Jxiong34_tableau.png.PNG)
 
 ### Reflection  
 Database 2 helped me advance from simple SQL queries to designing full database systems. I gained practical experience building relational structures, securing user access, optimizing queries, and connecting databases to visualization tools. This course strengthened my technical skills and prepared me for more advanced data engineering and analytics work.
