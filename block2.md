@@ -1,4 +1,4 @@
-# Block 2 – Building Technical Skills in Programming, Databases & Business Analytics  
+# Block 2 – Building Technical Skills in Programming, Databases & Business Analytics
 ### Second Semester
 
 Block 2 represents the next stage of my journey in the **IT–Data Analytics** program at CVTC.  
