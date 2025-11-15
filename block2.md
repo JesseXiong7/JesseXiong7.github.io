@@ -151,7 +151,7 @@ I explored unit, integration, and system testing as well as program, system, ope
 - [Process Diagram – Appliance Warehouse](block2_artifacts/systems_analysis_design/M6%20-%20Complete%20Appliance%20Warehouse%20Case%20Study.drawio.png)
 #### Together Farms Case Study
 - [Together Farms Case Study – Part 6](block2_artifacts/systems_analysis_design/SAD-Jxiong34_CaseStudy6.docx)
-- [Together Farms Case Study – Part 9](block2_artifacts/systems_analysis_design/SAD-Jxiong34_CaseStudy9.docx)
+- [Together Farms Case Study – Part 9](block2_artifacts/systems_analysis_design/SAD-Jxiong34_CaseStudy9.docx) 
 #### ERP System Evaluation (Acumatica Analysis)
 - [ERP System Evaluation – Acumatica Analysis](block2_artifacts/systems_analysis_design/SAD-Jxiong34_CaseStudy9.docx)
 
