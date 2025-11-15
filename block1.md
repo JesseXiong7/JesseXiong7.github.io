@@ -68,8 +68,8 @@ I became comfortable cleaning, organizing, and summarizing data so it can be use
 
 **SQL Query Labs:**  
 - [jxiong34_m5.4.sql](block1_artifacts/database1/jxiong34_m5.4.sql)  
-- [jxiong34_m7.3.sql](block1_artifacts/database1/jxiong34_m7.3.sql)  
-- [jxiong34_m8.sql](block1_artifacts/database1/jxiong34_m8.sql) 
+- [Jxiong34_m7.3.sql](block1_artifacts/database1/Jxiong34_m7.3.sql)  
+- [Jxiong34_m8.sql](block1_artifacts/database1/Jxiong34_m8.sql)
 
 ### Reflection  
 This course taught me how to design efficient databases and write queries that turn raw data into useful insights. I learned how important clean data and good design are for accuracy. Database 1 helped me build the foundation for advanced courses in ETL, Power BI, and data visualization.  
