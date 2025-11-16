@@ -28,13 +28,6 @@ For me, data isn’t just numbers; it’s a story waiting to be told. I love the
 
 ---
 
-## 📁 Featured Projects
-- [Fitness Center Performance Tracker (In Progress)](projects/fitness-center.md)
-  - *Capstone project currently under development. Will include Power BI dashboards, database schema (ERD), and data analysis reports once completed.*
-- [Airline Analysis Dashboard](projects/airline-analysis.md)
-- [Melbourne Housing Price Prediction (Machine Learning)](projects/melbourne-housing.md)
-- [SQL Query Labs & ERD Design](projects/sql-labs.md)
-
 ## 📚 Academic Portfolio
 ### 🔵 Block 1 – Foundations of IT-Data Analytics  
 [View Block 1 Portfolio](./block1.md)
