@@ -35,6 +35,13 @@ For me, data isn’t just numbers; it’s a story waiting to be told. I love the
 - [Melbourne Housing Price Prediction (Machine Learning)](projects/melbourne-housing.md)
 - [SQL Query Labs & ERD Design](projects/sql-labs.md)
 
+## 📚 Academic Portfolio
+### 🔵 Block 1 – Foundations of IT-Data Analytics  
+[View Block 1 Portfolio](./block1.md)
+
+### 🔵 Block 2 – Programming, Databases & Business Analytics  
+[View Block 2 Portfolio](./block2.md)
+
 ---
 
 ## 🛠️ Skills & Tools
