@@ -177,12 +177,13 @@ I connected to SQL Server through data sources, created datasets, and built deta
 
 ### BI Data 1 – Paginated Reports Artifacts
 
+### BI Data 1 – Paginated Reports Artifacts
 - [M11 – Parameter Lab](block2_artifacts/bi_data1_paginated/M11-Parameter_Lab.2.rdl)
 - [M14 – Map of WI Report](block2_artifacts/bi_data1_paginated/M14_Map_of_WI.rdl)
-- [Make It Happen – Address Report](block2_artifacts/bi_data1_paginated/M6-MakeItHappenAddressReport.rdl)
-- [Make It Happen – People Report](block2_artifacts/bi_data1_paginated/MakeItHappenPeopleReport.pdf)
-- [Module 9-2 Sales Report](block2_artifacts/bi_data1_paginated/Module_9-2_Sales_Report_Lab.rdl)
-- [Updated DB Diagram (Draw.io)](block2_artifacts/bi_data1_paginated/update_on_draw.io_for_DB_M3.9.PNG)   
+- [Make It Happen – People Report](block2_artifacts/bi_data1_paginated/MakeITappenPeopleReport.pdf)
+- [Module 9-2 Sales Report (PDF)](block2_artifacts/bi_data1_paginated/Module 9-2 Sales Report Lab.pdf)
+- [Module 9-2 Sales Report (RDL)](block2_artifacts/bi_data1_paginated/Module 9-2 Sales Report Lab.rdl)
+- [Database Diagram Update](block2_artifacts/bi_data1_paginated/update on draw.io for DB M3.9.PNG)  
 
 ### Reflection  
 BI Data 1 helped me understand how to transform SQL data into professional business reports. I learned techniques for improving report interactivity, readability, and visual clarity. These reporting skills are essential for business decision-making and support my future goals in data analytics and BI development.
