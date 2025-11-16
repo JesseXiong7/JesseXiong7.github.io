@@ -176,14 +176,11 @@ I created Access reports using SQL Server tables and learned how to format layou
 I connected to SQL Server through data sources, created datasets, and built detailed, exception, and summary reports. I applied conditional formatting, expressions, parameters, tooltips, drill-through features, and interactive controls. I added charts, matrices, images, and logos and practiced exporting reports to Excel and Word.
 
 ### BI Data 1 – Paginated Reports Artifacts
-
-### BI Data 1 – Paginated Reports Artifacts
-- [M11 – Parameter Lab](block2_artifacts/bi_data1_paginated/M11-Parameter_Lab.2.rdl)
-- [M14 – Map of WI Report](block2_artifacts/bi_data1_paginated/M14_Map_of_WI.rdl)
-- [Make It Happen – People Report](block2_artifacts/bi_data1_paginated/MakeITappenPeopleReport.pdf)
-- [Module 9-2 Sales Report (PDF)](block2_artifacts/bi_data1_paginated/Module 9-2 Sales Report Lab.pdf)
-- [Module 9-2 Sales Report (RDL)](block2_artifacts/bi_data1_paginated/Module 9-2 Sales Report Lab.rdl)
-- [Database Diagram Update](block2_artifacts/bi_data1_paginated/update on draw.io for DB M3.9.PNG)  
+- [M11 – Parameter Lab](block2_artifacts/bi_data1_paginated/M11-Parameter%20Lab.2.pdf)
+- [M12 – Fun With Text Lab](block2_artifacts/bi_data1_paginated/M12%20Fun%20with%20Text%20Lab.pdf)
+- [Make It Happen – Address Report](block2_artifacts/bi_data1_paginated/M6-MakeItHappenAddressReport.pdf)
+- [Make It Happen – People Report](block2_artifacts/bi_data1_paginated/MakeITHappenPeopleReport.pdf)
+- [Database Diagram Update](block2_artifacts/bi_data1_paginated/update%20on%20draw.io%20for%20DB%20M3.9.PNG) 
 
 ### Reflection  
 BI Data 1 helped me understand how to transform SQL data into professional business reports. I learned techniques for improving report interactivity, readability, and visual clarity. These reporting skills are essential for business decision-making and support my future goals in data analytics and BI development.
