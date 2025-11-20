@@ -53,7 +53,11 @@ This course taught me Python fundamentals, allowing me to write programs, analyz
 - Used Git/GitHub for version control and project publishing  
 
 ### Artifacts & Projects  
-*(Artifacts will be added later.)*
+- [3-Baseball_Team_Manager6.py](block3_artifacts/python%20data%20programming/3-Baseball_Team_Manager6.py)
+- [Pandas_Report_Jxiong34.pdf](block3_artifacts/python%20data%20programming/Pandas_Report_Jxiong34.pdf)
+- [future_value_gui.py](block3_artifacts/python%20data%20programming/future_value_gui.py)
+- [helloworld.jpg](block3_artifacts/python%20data%20programming/helloworld.jpg)
+- [ui.py](block3_artifacts/python%20data%20programming/ui.py)
 
 ### Reflection  
 Python Data Programming helped me understand how coding works behind the scenes and showed me how powerful automation can be in data analytics. I became much more comfortable writing my own scripts, using libraries like Pandas, and building programs from scratch. This course also introduced me to database integration and file handling, which will be essential for building future analytics pipelines and machine learning projects.
