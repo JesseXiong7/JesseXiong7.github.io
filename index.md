@@ -35,6 +35,8 @@ For me, data isn’t just numbers; it’s a story waiting to be told. I love the
 ### 🔵 Block 2 – Programming, Databases & Business Analytics  
 [View Block 2 Portfolio](./block2.md)
 
+### 🔵 Block 3 – Building Data Skills in BI, Python & ETL  
+[View Block 3 Portfolio](./block3.md) 
 ---
 
 ## 🛠️ Skills & Tools
