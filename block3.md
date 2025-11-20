@@ -83,7 +83,7 @@ This course introduced the ETL (Extract, Transform, Load) process and its import
 
 ### Artifacts & Projects  
 - [BasicDataTrans.yxmd](block3_artifacts/introductory%20etl/BasicDataTrans.yxmd)
-- [jxiong34_M3.xlsx](block3_artifacts/introductory%20etl/jxiong34_M3.xlsx)
+- [jxiong34_M3.xlsx](block3_artifacts/introductory%20etl/Jxiong34_M3.xlsx)
 - [New Workflow2.yxmd](block3_artifacts/introductory%20etl/New%20Workflow2.yxmd)
 - [jxiong34_M4.sql](block3_artifacts/introductory%20etl/jxiong34_M4.sql)
 - [jxiong34_bikeshare_V2.docx](block3_artifacts/introductory%20etl/jxiong34_bikeshare_V2.docx)
