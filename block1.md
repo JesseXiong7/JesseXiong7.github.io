@@ -1,4 +1,4 @@
-# Block – Foundations of IT-Data Analytics
+# Block 1 – Foundations of IT-Data Analytics
 ### First Semester
 
 Block 1 represents the start of my journey in the **IT–Data Analytics** program at CVTC.  
@@ -13,23 +13,14 @@ These two courses gave me a strong technical foundation in computer logic, progr
 This course introduced me to the main areas of information technology and programming. I learned how computers work from both a hardware and software perspective, how operating systems manage data, and how programming languages are used to create solutions. I practiced using the Command Prompt to navigate and organize files, wrote my first JavaScript programs, and explored how problem solving, logic, and data connect in the IT field. The course also covered cybersecurity awareness and introduced me to GitHub for storing and sharing projects.    
 
 ### What I Learned  
-**Exploring IT and Problem Solving**  
-I identified the physical components of a computer and learned their functions and how they communicate with software. I compared problem-solving models and practiced breaking down challenges into step-by-step solutions using logic and analysis.  
-
-**Command Prompt and File Systems**  
-I used the CLI to navigate directories, create folders, and organize files. I also made a **Command Prompt Tree Diagram** to show my folder structure and file hierarchy visually.  
-
-**Programming Logic and JavaScript Basics**  
-I wrote small JavaScript programs to manipulate text and graphics in a browser. Projects included:  
-- **Smiley Face in JavaScript (jsActivity.html)** – used text and shapes to build a smiley face.  
-- **Animated Rainbow (jxiong34_turtle.html)** – used Turtle Graphics and HTML to create a moving rainbow.  
-These helped me understand how code interacts with the web and how logic creates visual outcomes.  
-
-**Cybersecurity Awareness**  
-I learned about password management and how to identify phishing and social engineering tactics. Following best practices taught me how to secure my own accounts and projects.  
-
-**Source Control and GitHub**  
-I was introduced to GitHub for version control and hosting projects, which I now use for my academic portfolio and future data projects.  
+- Identified physical components of a computer and learned how hardware communicates with software  
+- Applied problem-solving models and practiced breaking challenges into step-by-step logic  
+- Navigated file systems using the Command Prompt (CLI) to create, manage, and organize folders  
+- Built a **Command Prompt Tree Diagram** to visualize directory structures  
+- Wrote small JavaScript programs to manipulate graphics and text in a browser  
+- Created projects such as **jsActivity.html** (smiley face) and **jxiong34_turtle.html** (animated rainbow)  
+- Learned foundational cybersecurity concepts including passwords, phishing, and account protection  
+- Used GitHub for source control and learned the basics of storing, tracking, and managing code  
 
 ### Artifacts and Projects  
 - [Command Prompt Tree Diagram](block1_artifacts/intro_computers_programming/Command%20Prompt%20Tree%20Diagram.PNG)
@@ -47,20 +38,16 @@ This course gave me a solid understanding of how computers and software work tog
 Database 1 introduced me to relational databases and SQL. I learned how to design tables, define relationships, and use SQL queries to retrieve and analyze data. This course showed me how organized data drives business decisions and analytics.  
 
 ### What I Learned  
-**Understanding Database Systems**  
-I studied how database systems store and manage data for organizations. I learned key terms like tables, fields, records, primary keys, and foreign keys and how these elements form relationships between datasets.  
-
-**Database Design and ERDs**  
-I created Entity Relationship Diagrams (ERDs) to map out data relationships and apply normalization rules (1NF to 3NF). I developed ERDs for projects like the **Drone Module 2** and **Rewards Module 2**, defining data types, relationships, and cardinality.  
-
-**Working with SQL and SSMS**  
-I used Microsoft SQL Server Management Studio to restore databases, create tables, and populate them with data. I practiced writing queries that used `SELECT`, `WHERE`, `GROUP BY`, and `ORDER BY`, along with aggregate functions like `COUNT` and `SUM`. I also used JOINs and subqueries to combine and filter data from multiple tables and explored `UNION` to merge data sets.  
-
-**Testing and Troubleshooting**  
-I learned to review query results for accuracy, debug SQL errors, and analyze relationships for data consistency and performance.  
-
-**Data Organization and Analysis**  
-I became comfortable cleaning, organizing, and summarizing data so it can be used for analytics and visualization.  
+- Studied how database systems store and manage organizational data  
+- Learned key terms: tables, fields, records, primary keys, foreign keys  
+- Designed Entity Relationship Diagrams (ERDs) to map data relationships  
+- Applied normalization rules (1NF–3NF) to improve data structure  
+- Built ERDs for **Drone Module 2** and **Rewards Module 2**  
+- Restored databases and created tables in SQL Server Management Studio (SSMS)  
+- Wrote SQL queries including `SELECT`, `WHERE`, `GROUP BY`, `ORDER BY`, and aggregate functions  
+- Used JOINs, subqueries, and UNION to combine and analyze data  
+- Debugged SQL errors and validated relationships for accuracy and performance  
+- Cleaned, organized, and analyzed datasets for use in reporting and visualization  
 
 ### Artifacts and Projects  
 - [Drone Module ERD](block1_artifacts/database1/jxiong34_drone_EER.png)  
