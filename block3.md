@@ -82,7 +82,11 @@ This course introduced the ETL (Extract, Transform, Load) process and its import
 - Explored data warehousing and cloud storage concepts  
 
 ### Artifacts & Projects  
-*(Artifacts will be added later.)*
+- [BasicDataTrans.yxmd](block3_artifacts/introductory%20etl/BasicDataTrans.yxmd)
+- [jxiong34_M3.xlsx](block3_artifacts/introductory%20etl/jxiong34_M3.xlsx)
+- [New Workflow2.yxmd](block3_artifacts/introductory%20etl/New%20Workflow2.yxmd)
+- [jxiong34_M4.sql](block3_artifacts/introductory%20etl/jxiong34_M4.sql)
+- [jxiong34_bikeshare_V2.docx](block3_artifacts/introductory%20etl/jxiong34_bikeshare_V2.docx)
 
 ### Reflection  
 Introductory ETL showed me how essential clean and organized data is to every analytics process. I learned how to fix inconsistent datasets, improve data quality, and build structured workflows using Power Query and Alteryx. This course helped me understand how data flows from raw sources into reports and dashboards. It also improved my ability to troubleshoot messy data and prepare it effectively for analysis, which is one of the most important skills for any data analyst.
