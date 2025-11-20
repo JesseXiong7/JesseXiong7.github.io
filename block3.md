@@ -25,7 +25,10 @@ In this course, I learned how to use Power BI Desktop, Power BI Service, and Pow
 - Applied Agile concepts to improve collaboration and iterative development  
 
 ### Artifacts & Projects  
-*(Artifacts will be added later.)*
+- [AdventureWorks HR Lab.pdf](block3_artifacts/bi%20data%202%20-%20interactive/AdventureWorks%20HR%20Lab.pdf)
+- [Capture.PNG](block3_artifacts/bi%20data%202%20-%20interactive/Capture.PNG)
+- [M11 - Complete the Lab.pdf](block3_artifacts/bi%20data%202%20-%20interactive/M11%20-%20Complete%20the%20Lab.pdf)
+- [M7 Complete the Power BI Natural Language Q&A Lab.pdf](block3_artifacts/bi%20data%202%20-%20interactive/M7%20Complete%20the%20Power%20BI%20Natural%20Language%20Q&A%20Lab.pdf) 
 
 ### Reflection  
 BI Data 2 strengthened my ability to take raw data and turn it into interactive insights. This class helped me feel more confident working with real datasets, building polished dashboards, and applying data modeling techniques. I gained a better understanding of how BI tools support business decisions and how analysts communicate results through visuals. The hands-on labs gave me experience that I can apply directly in real-world reporting and dashboard development.
