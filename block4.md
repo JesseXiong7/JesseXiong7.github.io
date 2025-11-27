@@ -50,12 +50,12 @@ This course focused on protecting sensitive data, understanding privacy laws, an
 - Learned how to respond to security breaches and incidents  
 - Explored emerging trends in cybersecurity and AI security  
 
-### Artifacts & Projects
-- [Stored Procedure Security Lab](block4_artifacts/data%20security%20and%20privacy/Jxiong34%20StoredProcedureLab.PNG)
-- [CVTC Data Privacy Case Study](block4_artifacts/data%20security%20and%20privacy/M2%20-%20Complete%20CVTC's%20Data%20Privacy%20Case%20Study.docx)
-- [Password Management Lab](block4_artifacts/data%20security%20and%20privacy/Password%20Managementdocx.docx)
+### Data Security & Privacy Artifacts
+- [Stored Procedure Permissions Lab (Appleton)](block4_artifacts/data%20security%20and%20privacy/Jxiong34%20StoredProcedureLab%20.PNG)
+- [M2 – Complete CVTC's Data Privacy Case Study.docx](block4_artifacts/data%20security%20and%20privacy/M2%20-%20Complete%20CVTC's%20Data%20Privacy%20Case%20Study.docx)
+- [Password Management Activity](block4_artifacts/data%20security%20and%20privacy/Password%20Managementdocx.docx)
 - [Ports & Firewalls Lab](block4_artifacts/data%20security%20and%20privacy/jxiong34-Ports%20&%20Firewalls.docx)
-- [Security Incident Notification Lab](block4_artifacts/data%20security%20and%20privacy/jxiong34_Incident%20notification%20Lab.docx)
+- [Incident Notification Lab](block4_artifacts/data%20security%20and%20privacy/jxiong34_Incident%20notification%20Lab.docx)
 
 ### Reflection  
 Data Security & Privacy changed how I view data responsibility. I learned that protecting data is just as important as analyzing it. This course gave me essential knowledge about compliance, breach response, and ethical data handling, which are critical skills for any professional working with sensitive information.
