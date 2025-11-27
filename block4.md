@@ -21,8 +21,7 @@ This course introduced me to the foundations of machine learning and artificial 
 - Understood bias, variance, and model reliability  
 - Applied ethical and privacy considerations in AI development  
 - Worked with datasets such as the Melbourne Housing dataset  
-
-### Artifacts & Projects  
+ 
 ### Artifacts & Projects
 - [Melbourne Housing Analysis](block4_artifacts/machine%20learning/jxiong34_Melbourne.html)
 - [Car Price Prediction](block4_artifacts/machine%20learning/jxiong34_carsV2.html)
