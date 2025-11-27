@@ -23,7 +23,12 @@ This course introduced me to the foundations of machine learning and artificial 
 - Worked with datasets such as the Melbourne Housing dataset  
 
 ### Artifacts & Projects  
-*(Artifacts will be added later.)*
+### Artifacts & Projects
+- [Melbourne Housing Analysis](block4_artifacts/machine%20learning/jxiong34_Melbourne.html)
+- [Car Price Prediction](block4_artifacts/machine%20learning/jxiong34_carsV2.html)
+- [Diabetes Prediction (KNN)](block4_artifacts/machine%20learning/jxiong34_diabetes_knn.html)
+- [Titanic Survival Prediction](block4_artifacts/machine%20learning/jxiong34_titanic.html)
+- [Wine Quality Analysis](block4_artifacts/machine%20learning/jxiong34_wine.html)
 
 ### Reflection  
 Machine Learning challenged me to think beyond basic analytics and into prediction and automation. I gained confidence working with real datasets and building models in Python. This course showed me how powerful data can be when used for forecasting and intelligent decision-making, and it expanded my career interests in AI and advanced analytics.
