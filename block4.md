@@ -78,7 +78,10 @@ This course expanded my Power BI skills with advanced visualization, multi-sourc
 - Designed reports for real business users and stakeholders  
 
 ### Artifacts & Projects  
-*(Artifacts will be added later.)*
+- [BID3 M8 – MidTerm Lab](block4_artifacts/bi%20data%203%20-%20visualization/BID3%20M8-MidTerm%20Lab.pdf)  
+- [Contoso Sales for Power BI Designer](block4_artifacts/bi%20data%203%20-%20visualization/Contoso%20Sales%20for%20Power%20BI%20Designer.pdf)  
+- [M4 – Measures, Columns, Report and Dashboard Data](block4_artifacts/bi%20data%203%20-%20visualization/M4%20Measure,%20Columns,%20report%20and%20Dashboard%20data.pdf)  
+- [M5 – Complete the Dashboard Lab](block4_artifacts/bi%20data%203%20-%20visualization/M5%20-%20Complete%20the%20Dashboard%20Lab.pdf)
 
 ### Reflection  
 BI Data 3 helped me move from basic dashboards to professional, executive-level reporting. I became more confident designing visuals that tell a story and support business decisions. This course strengthened my ability to communicate insights effectively through data visualization.
