@@ -104,7 +104,11 @@ The Capstone course brought together everything I learned in the IT–Data Analy
 - Prepared for job searching in data analytics  
 
 ### Artifacts & Projects  
-*(Artifacts will be added later.)*
+- [DiSC Personality Types and Conflicts Role-Play](block4_artifacts/data%20analytics%20capstone/DiSC%20Personality%20Types%20and%20Conflicts%20Role-Play.docx)
+- [Project Charter](block4_artifacts/data%20analytics%20capstone/jxiong34_project_charter.docx)
+- [Cover Letter](block4_artifacts/data%20analytics%20capstone/jxiong34_coverletter.docx)
+- [Formatted Resume](block4_artifacts/data%20analytics%20capstone/jxiong34_formatted_resume.docx)
+- [Reports & Executive Dashboard](block4_artifacts/data%20analytics%20capstone/jxiong34_reports&Executive%20dashboard.pdf)
 
 ### Reflection  
 The Capstone course was the most important class in my program. It allowed me to apply all my skills in a professional, project-based environment. I strengthened my technical abilities, communication skills, and job readiness. This course helped me transition from a student into an entry-level data professional.
