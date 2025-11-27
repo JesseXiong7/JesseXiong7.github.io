@@ -50,7 +50,7 @@ This course focused on protecting sensitive data, understanding privacy laws, an
 - Learned how to respond to security breaches and incidents  
 - Explored emerging trends in cybersecurity and AI security  
 
-### Data Security & Privacy Artifacts
+### Artifacts & Projects
 - [Stored Procedure Permissions Lab (Appleton)](block4_artifacts/data%20security%20and%20privacy/Jxiong34%20StoredProcedureLab%20.PNG)
 - [M2 – Complete CVTC's Data Privacy Case Study.docx](block4_artifacts/data%20security%20and%20privacy/M2%20-%20Complete%20CVTC's%20Data%20Privacy%20Case%20Study.docx)
 - [Password Management Activity](block4_artifacts/data%20security%20and%20privacy/Password%20Managementdocx.docx)
@@ -103,12 +103,12 @@ The Capstone course brought together everything I learned in the IT–Data Analy
 - Practiced business professionalism in an IT environment  
 - Prepared for job searching in data analytics  
 
-### Artifacts & Projects  
-- [DiSC Personality Types and Conflicts Role-Play](block4_artifacts/data%20analytics%20capstone/DiSC%20Personality%20Types%20and%20Conflicts%20Role-Play.docx)
-- [Project Charter](block4_artifacts/data%20analytics%20capstone/jxiong34_project_charter.docx)
+### Artifacts & Projects
+- [Project Charter](block4_artifacts/data%20analytics%20capstone/Jxiong34_project_charter.docx)
 - [Cover Letter](block4_artifacts/data%20analytics%20capstone/jxiong34_coverletter.docx)
 - [Formatted Resume](block4_artifacts/data%20analytics%20capstone/jxiong34_formatted_resume.docx)
 - [Reports & Executive Dashboard](block4_artifacts/data%20analytics%20capstone/jxiong34_reports&Executive%20dashboard.pdf)
+- [DiSC Personality Types & Conflicts Role-Play](block4_artifacts/data%20analytics%20capstone/DiSC%20Personality%20Types%20and%20Conflicts%20Role-Play.docx)
 
 ### Reflection  
 The Capstone course was the most important class in my program. It allowed me to apply all my skills in a professional, project-based environment. I strengthened my technical abilities, communication skills, and job readiness. This course helped me transition from a student into an entry-level data professional.
