@@ -32,11 +32,14 @@ For me, data isn’t just numbers; it’s a story waiting to be told. I love the
 ### 🔵 Block 1 – Foundations of IT-Data Analytics  
 [View Block 1 Portfolio](./block1.md)
 
-### 🔵 Block 2 – Programming, Databases & Business Analytics  
+### 🔵 Block 2 – Building Technical Skills in Programming, Databases & Business Analytics  
 [View Block 2 Portfolio](./block2.md)
 
 ### 🔵 Block 3 – Building Data Skills in BI, Python & ETL  
 [View Block 3 Portfolio](./block3.md)
+
+### 🔵 Block 4 – Advanced Analytics, Security & Capstone  
+[View Block 4 Portfolio](./block4.md)
 
 ---
 
