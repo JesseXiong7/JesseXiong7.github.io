@@ -80,7 +80,7 @@ This course expanded my Power BI skills with advanced visualization, multi-sourc
 ### Artifacts & Projects  
 - [BID3 M8 – MidTerm Lab](block4_artifacts/bi%20data%203%20-%20visualization/BID3%20M8-MidTerm%20Lab.pdf)  
 - [Contoso Sales for Power BI Designer](block4_artifacts/bi%20data%203%20-%20visualization/Contoso%20Sales%20for%20Power%20BI%20Designer.pdf)  
-- [M4 – Measures, Columns, Report and Dashboard Data](block4_artifacts/bi%20data%203%20-%20visualization/M4%20Measure,%20Columns,%20report%20and%20Dashboard%20data.pdf)
+- [M4 – Measures, Columns, Report and Dashboard Data](block4_artifacts/bi%20data%203%20-%20visualization/M4%20Measure,%20Columns,%20report%20and%20Dashboard%20data..pdf)
 - [M5 – Complete the Dashboard Lab](block4_artifacts/bi%20data%203%20-%20visualization/M5%20-%20Complete%20the%20Dashboard%20Lab.pdf)
 
 ### Reflection  
