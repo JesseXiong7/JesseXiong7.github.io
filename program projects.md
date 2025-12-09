@@ -69,7 +69,7 @@ The goal of this project was to design an end-to-end data analytics solution tha
 - [Database File](program_project_artifacts/jxiong34_DB_m4.mdb)
 
 ### 📄 Project Documentation
-- [Project Charter (Download)](https://raw.githubusercontent.com/JesseXiong7/JesseXiong7.github.io/main/program_project_artifacts/jxiong34_project_charter.docx)
+- [Project Charter (Download)](https://raw.githubusercontent.com/JesseXiong7/JesseXiong7.github.io/main/program_project_artifacts/Jxiong34_project_charter.docx)
 
 ---
 
