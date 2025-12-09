@@ -42,7 +42,7 @@ For me, data isn’t just numbers; it’s a story waiting to be told. I love the
 [View Block 4 Portfolio](./block4.md)
 
 ### 🟢 **Program Project – Capstone**
-[View Program Project – Fitness Center Performance Tracker](program_project.html)
+[View Program Project – Fitness Center Performance Tracker](program_project/)
 
 ---
 
