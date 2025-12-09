@@ -55,12 +55,12 @@ The solution integrates database design, ETL processes, and analytics reporting.
 ---
 
 ### 📁 Project Artifacts
-- 📄 [Project Charter](program_projects_artifacts/Project_Charter.docx)
-- 🗄️ [Database](program_projects_artifacts/Fitness_Center_Database.mdb)
-- 🧩 [ERD Diagram](program_projects_artifacts/Fitness_Center_ERD.png)
-- 📊 [Executive Dashboard](program_projects_artifacts/Executive_Dashboard.png)
-- 📈 [Attendance Report](program_projects_artifacts/Attendance_Report.png)
-- 📉 [Revenue Report](program_projects_artifacts/Revenue_Report.png)
+- 📊 [Executive Dashboard](program_projects_artifacts/Executive_Dashboard.PNG)
+- 🗄️ [Access Database](program_projects_artifacts/jxiong34_DB_m4.mdb)
+- 🧩 [ERD Diagram](program_projects_artifacts/jxiong34_ERD.png)
+- 📄 [Project Charter](program_projects_artifacts/jxiong34_project_charter.docx)
+- 📈 [Attendance Report](program_projects_artifacts/Report1_attendance.PNG)
+- 📉 [Revenue Report](program_projects_artifacts/Report2_Revenue.PNG)
 
 ---
 
