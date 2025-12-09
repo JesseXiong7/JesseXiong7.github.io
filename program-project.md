@@ -55,10 +55,7 @@ The solution integrates database design, ETL processes, and analytics reporting.
 ---
 
 ## 📁 Project Artifacts
-
-Click below to view supporting materials:
-
-👉 **[Program Project Artifacts](program_project_artifacts/)**
+[Program Project Artifacts](program_projects_artifacts/) 
 
 ---
 
