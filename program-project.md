@@ -1,3 +1,7 @@
+---
+title: Program Project – Capstone
+--- 
+
 # 🏋️ Program Project – Fitness Center Performance Tracker System
 
 **Academic Capstone Project – IT Data Analytics (CVTC)**
