@@ -41,6 +41,9 @@ For me, data isn’t just numbers; it’s a story waiting to be told. I love the
 ### 🔵 Block 4 – Advanced Analytics, Security & Capstone  
 [View Block 4 Portfolio](./block4.md)
 
+### 🟢 **Program Project – Capstone**
+[View Program Project – Fitness Center Performance Tracker](program%20projects.md)
+
 ---
 
 ## 🛠️ Skills & Tools
