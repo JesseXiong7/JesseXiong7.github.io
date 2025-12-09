@@ -55,27 +55,21 @@ The goal of this project was to design an end-to-end data analytics solution tha
 
 ---
 
-## Project Artifacts
+## 📂 Program Project Artifacts
 
 ### 📊 Executive Dashboard
-[View Executive Dashboard](block4_artifacts/Executive_Dashboard.PNG)
+[View Executive Dashboard](program_project_artifacts/Executive_Dashboard.PNG)
 
----
+### 📈 Reports
+- [Attendance Summary Report](program_project_artifacts/Report1_attendance.PNG)
+- [Revenue Summary Report](program_project_artifacts/Report2_Revenue.PNG)
 
-### 📈 Analytical Reports
-- [Attendance Summary Report](block4_artifacts/Report1_Attendance.PNG)
-- [Membership Revenue Summary Report](block4_artifacts/Report2_Revenue.PNG)
-
----
-
-### 🗂 Database & Design Files
-- [Entity Relationship Diagram (ERD)](block4_artifacts/jxiong34_ERD.PNG)
-- [Database File](block4_artifacts/jxiong34_DB_m4.mdb)
-
----
+### 🧩 Database & Design
+- [ERD Diagram](program_project_artifacts/jxiong34_ERD.png)
+- [Database File](program_project_artifacts/jxiong34_DB_m4.mdb)
 
 ### 📄 Project Documentation
-- [Project Charter](block4_artifacts/jxiong34_project_charter.docx)
+- [Project Charter](program_project_artifacts/jxiong34_project_charter.docx)
 
 ---
 
