@@ -58,7 +58,7 @@ The solution integrates database design, ETL processes, and analytics reporting.
 - 📊 [Executive Dashboard](program_projects_artifacts/Executive_Dashboard.PNG)
 - 🗄️ [Access Database](program_projects_artifacts/jxiong34_DB_m4.mdb)
 - 🧩 [ERD Diagram](program_projects_artifacts/jxiong34_ERD.png)
-- 📄 [Project Charter](program_projects_artifacts/jxiong34_project_charter.docx)
+- 📄 [Project Charter](program_projects_artifacts/jxiong34_project_charter.docx) 
 - 📈 [Attendance Report](program_projects_artifacts/Report1_attendance.PNG)
 - 📉 [Revenue Report](program_projects_artifacts/Report2_Revenue.PNG)
 
